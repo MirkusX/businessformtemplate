@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/businessformtemplate/static/css/main.073c9b0a.css",
+    "main.js": "/businessformtemplate/static/js/main.04eec503.js",
+    "static/js/787.0314917c.chunk.js": "/businessformtemplate/static/js/787.0314917c.chunk.js",
+    "static/media/ye.png": "/businessformtemplate/static/media/ye.9cb95732655c1a359ea8.png",
+    "index.html": "/businessformtemplate/index.html",
+    "main.073c9b0a.css.map": "/businessformtemplate/static/css/main.073c9b0a.css.map",
+    "main.04eec503.js.map": "/businessformtemplate/static/js/main.04eec503.js.map",
+    "787.0314917c.chunk.js.map": "/businessformtemplate/static/js/787.0314917c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.04eec503.js"
+  ]
+}
